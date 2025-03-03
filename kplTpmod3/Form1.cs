@@ -16,5 +16,22 @@ namespace kplTpmod3
         {
             InitializeComponent();
         }
+
+        private void btnSubmit_Click(object sender, EventArgs e)
+        {
+            string nama = textInput.Text;
+            lblOutput.Text = "Halo,  " + nama;
+
+        }
+
+        private void textInput_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

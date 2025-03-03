@@ -1,0 +1,10 @@
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\kplTpmod3\kplTpmod3\bin\Debug\kplTpmod3.exe.config
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\kplTpmod3\kplTpmod3\bin\Debug\kplTpmod3.exe
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\kplTpmod3\kplTpmod3\bin\Debug\kplTpmod3.pdb
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\kplTpmod3\kplTpmod3\obj\Debug\kplTpmod3.csproj.AssemblyReference.cache
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\kplTpmod3\kplTpmod3\obj\Debug\kplTpmod3.Properties.Resources.resources
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\kplTpmod3\kplTpmod3\obj\Debug\kplTpmod3.csproj.GenerateResource.cache
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\kplTpmod3\kplTpmod3\obj\Debug\kplTpmod3.csproj.CoreCompileInputs.cache
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\kplTpmod3\kplTpmod3\obj\Debug\kplTpmod3.exe
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\kplTpmod3\kplTpmod3\obj\Debug\kplTpmod3.pdb
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\kpltpmod3\kplTpmod3\obj\Debug\kplTpmod3.Form1.resources

@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{51FC6DDF-FC7A-463A-BD8C-503C77BF3007}|kplTpmod3\\kplTpmod3.csproj|c:\\users\\abiza\\onedrive\\documents\\programming\\kpltpmod3\\kpltpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{51FC6DDF-FC7A-463A-BD8C-503C77BF3007}|kplTpmod3\\kplTpmod3.csproj|solutionrelative:kpltpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6DDF-FC7A-463A-BD8C-503C77BF3007}|kplTpmod3\\kplTpmod3.csproj|c:\\users\\abiza\\onedrive\\documents\\programming\\kpltpmod3\\kpltpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6DDF-FC7A-463A-BD8C-503C77BF3007}|kplTpmod3\\kplTpmod3.csproj|solutionrelative:kpltpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6DDF-FC7A-463A-BD8C-503C77BF3007}|kplTpmod3\\kplTpmod3.csproj|c:\\users\\abiza\\onedrive\\documents\\programming\\kpltpmod3\\kpltpmod3\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{51FC6DDF-FC7A-463A-BD8C-503C77BF3007}|kplTpmod3\\kplTpmod3.csproj|solutionrelative:kpltpmod3\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6DDF-FC7A-463A-BD8C-503C77BF3007}|kplTpmod3\\kplTpmod3.csproj|C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\kplTpmod3\\kplTpmod3\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6DDF-FC7A-463A-BD8C-503C77BF3007}|kplTpmod3\\kplTpmod3.csproj|solutionrelative:kplTpmod3\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6DDF-FC7A-463A-BD8C-503C77BF3007}|kplTpmod3\\kplTpmod3.csproj|c:\\users\\abiza\\onedrive\\documents\\programming\\kpltpmod3\\kpltpmod3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6DDF-FC7A-463A-BD8C-503C77BF3007}|kplTpmod3\\kplTpmod3.csproj|solutionrelative:kpltpmod3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\kplTpmod3\\kplTpmod3\\Program.cs",
+              "RelativeDocumentMoniker": "kplTpmod3\\Program.cs",
+              "ToolTip": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\kplTpmod3\\kplTpmod3\\Program.cs",
+              "RelativeToolTip": "kplTpmod3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:23:06.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\kplTpmod3\\kplTpmod3\\Form1.cs",
+              "RelativeDocumentMoniker": "kplTpmod3\\Form1.cs",
+              "ToolTip": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\kplTpmod3\\kplTpmod3\\Form1.cs",
+              "RelativeToolTip": "kplTpmod3\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:31:10.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\kpltpmod3\\kplTpmod3\\Form1.resx",
+              "RelativeDocumentMoniker": "kplTpmod3\\Form1.resx",
+              "ToolTip": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\kpltpmod3\\kplTpmod3\\Form1.resx",
+              "RelativeToolTip": "kplTpmod3\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-03T16:25:25.937Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -29,8 +88,17 @@
               "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\kplTpmod3\\kplTpmod3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "kplTpmod3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\kplTpmod3\\kplTpmod3\\Form1.Designer.cs",
+              "RelativeToolTip": "kplTpmod3\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:16:28.749Z",
+              "EditorCaption": ""
             }
           ]
         }
